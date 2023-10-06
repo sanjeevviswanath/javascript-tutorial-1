@@ -3,7 +3,7 @@
 // Merge using spread
 // let combinedName = [...name1, ...name2]
 // console.log(combinedName)
-// added a comment to test commit
+
 // using concat
 // let combinedName = name1.concat(name2)
 // console.log(combinedName)
